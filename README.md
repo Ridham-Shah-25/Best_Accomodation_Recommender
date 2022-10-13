@@ -7,4 +7,4 @@ I divided the project into 5 parts-
 4. Getting Geloloactional API-I used FourSquare API to get Gelolocational data.After doing some basic preprocessing on the geolocational data,I had a dataframe with the locations (in latitude, longitude) format, along with the counts of how many amenities are present around each location.
 5. Plotting the clustered locations on a map-I again applied K Means on the dataset of the locations which we chose, which will help us find the best location for each population group that we found in Task 3.Then I used Foliumto plot my results on the map of a world,centered on Pune
 
-![alt text](https://github.com/[Ridham-Shah-25]/[Best_Accomodation_Recommender]/[Outputs]/boxplot_kmeans.jpg?raw=true)
+![boxplot_kmeans](https://user-images.githubusercontent.com/76242216/195570230-7a9063f9-3346-4b09-a15b-a8b2c21263d2.png)
