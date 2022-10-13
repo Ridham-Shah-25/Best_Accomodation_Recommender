@@ -10,4 +10,4 @@ I divided the project into 5 parts-
 # Boxplot
 ![boxplot_kmeans](https://user-images.githubusercontent.com/76242216/195570230-7a9063f9-3346-4b09-a15b-a8b2c21263d2.png)
 
-From This Boxplot,we can see different characteristics of people based on their income.Lower Income people tend to eat out less,
+From This Boxplot,we can see different characteristics of people based on their income.Lower Income people tend to eat out less,look for cheaper options while eating out,
