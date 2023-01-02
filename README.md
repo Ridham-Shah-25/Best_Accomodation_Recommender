@@ -18,4 +18,9 @@ To access working map:
 * Upload food_coded.csv file and run all cells
 * find ('Pune.html') file in the files after refreshing the files.
 
-
+# Clusters
+I have categorised the locations into 4 different clusters.They are-
+* Cluster Green-High No: of Restaurants and low no: of groceries,gyms around the location
+* Cluster Orange-Medium No: of Restaurants and low no: of groceries,gyms around the location
+* Cluster Red-High No: of Groceries and Restaurants and medium no: of Gyms around the location
+* Cluster Blue-High No: of Restaurants and medium no: of groceries,gyms around the location
